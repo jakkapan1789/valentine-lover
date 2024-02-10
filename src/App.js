@@ -25,7 +25,7 @@ function App() {
   const [declineCount, setDeclineCount] = React.useState(0);
   const [resValentine, setResValentine] = React.useState(false);
 
-  const yesButtonSize = declineCount * 20 + 16;
+  const yesButtonSize = declineCount * 15 + 16;
 
   const nextText = () => phrases[Math.min(declineCount, phrases.length - 1)];
   const nextImage = () => images[Math.min(declineCount, images.length - 1)];
