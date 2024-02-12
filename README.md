@@ -2,11 +2,9 @@
 
 ## I Developed this one for learning and improving my skills. didn't expect anything except these things.
 
-for the GILF URL free I used [https://media.tenor.com](https://media.tenor.com)
+For the free GILF URL I used [https://media.tenor.com](https://media.tenor.com)
 
-# Getting Started with Create React App for valentine
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Start building a React app for Valentine's Day.
 
 ## Available Scripts
 
